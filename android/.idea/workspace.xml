@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5aaff2ed-5484-4dd9-8ddf-02d89ba08486" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/core/dependencies.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/core/failure.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/dto/news_response_dto.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/mapper/article_mapper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/news_repository_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/source/local_storage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/data/source/network_api.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/domain/models/article_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/domain/repository/news_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/domain/usecase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/domain/usecase/get_top_news_usecase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/screens/article_details/article_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/screens/home/bloc/news_list_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/screens/home/bloc/news_list_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/screens/home/view/components/headline_news.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/screens/home/view/components/news_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/screens/home/view/components/top_news.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/screens/home/view/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/widgets/custom_tag.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/presentation/widgets/image_container.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4u.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news4u_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/news4u_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZGV1hCI7UOGZ5QCdymYbCTD29f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "data-layer",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aaff2ed-5484-4dd9-8ddf-02d89ba08486" name="Changes" comment="" />
+      <created>1702048189987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702048189987</updated>
+    </task>
+    <servers />
+  </component>
+</project>
